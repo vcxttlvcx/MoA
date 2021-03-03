@@ -1,21 +1,30 @@
-# MoA
-
 ![logo.png](images/logo.png)
+
+![Generic badge](https://img.shields.io/badge/version-1.0.0-{color}.svg)![Generic badge](https://img.shields.io/badge/Spring-{color}.svg)![Generic badge](https://img.shields.io/badge/Vue.js-blue.svg)![Generic badge](https://img.shields.io/badge/Vuetify-orange.svg)![Generic badge](https://img.shields.io/badge/mySql-pink.svg)
+
+
+
+
+# MoA
 
 ### '펀딩 시스템을 도입한 프로젝트 팀 구성 서비스'
 
  프로젝트 명은 'MoA'로 'Make Of teAm'의 스펠링을 따서 팀을 구성한다라는 의미와 한글 발을으로는 '모아'로 모으다 라는 의미를 함축적으로 담아보았습니다.
  Icon은 여러 개의 다리로 구성된 문어가 프로젝트 팀 구성원들의 조직을 떠올린다고 생각하여 선정하게 되었습니다.
-  
-  
+
+
 # 기획 배경
 
  싸피에 입과하기 전에 원하는 주제로 프로젝트를 개발해 보고 싶었지만, 혼자서 하기에는 버거웠고, 지인들로 팀을 구성하기에는 다양한 한계가 있었다. 더불어 팀을 구성하더라도 교육적으로 도움을 주며 이끌어줄 수 잇는 멘토가 필요해지게 된다는 것을 몸소 경험하게 되었다.
- 
+
  이러한 문제를 겪는 소비자(학생, 취준생 등)가 많을 것이라 생각하여 프로젝트를 함께할 팀원을 모으고 멘토를 구할 수 있는 펀딩 시스템을 도입한 서비스 "MoA"(Make of teAm)를 기획하게 되었다.
- 
+
+# 진행프로세스
+
+![process.png](images\process.png)
+
  # 프로젝트 상세 소개
- 
+
  ### 회원가입 & 로그인
  * 멘토와 멘티를 구분한 회원가입을 진행하여 차별화된 서비스를 제공
  * 세션이 유지되는 로그인을 지원
@@ -23,7 +32,7 @@
 ### 마이 페이지
 * 회원 가입 시 입력한 정보를 확인할 수 있으며, 수정 및 탈퇴 가능
 * 펀딩을 관심 목록에 추가하면 마이페이지에서 확인 가능(카카오톡 공유 가능)
- 
+
 ### 메인 화면
 * 펀딩을 검색할 수 있으며, 최신순, 마감 임박 순 등으로 모집중인 펀딩을 확인할 수 있음
 * 관심사에 따라 추천 프로젝트를 우선으로 보여줌(카테고리 별 확인 가능)
@@ -49,6 +58,10 @@
 * 랭킹에 따라 포인트 환급 수수료를 줄여줘 보다 열정적으로 임할 수 있게 하려는 의도
 * 멘티들은 능력치를 부여 받아 성취감을 더욱 높이고자 함
 
+# Back-end
+
+
+
 # 기술 스택
 
 ![techStack.png](images/techStack.png)
@@ -56,4 +69,3 @@
 # 팀 구성원 소개
 
 ![team_members.png](images/team_members.png)
-
