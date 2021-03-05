@@ -177,6 +177,10 @@ cd backend
 
 
 
+# 시연 및 UCC 영상
+
+##### [MoA UCC](https://youtu.be/FYA64TdmrNs)
+
 # 팀 구성원 소개
 
 ![team_members.png](images/team_members.png)
