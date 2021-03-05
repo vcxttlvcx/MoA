@@ -28,6 +28,11 @@
 ![process.png](images/process.png)
 
 
+# 시연 및 UCC 영상
+
+### [MoA UCC](https://youtu.be/FYA64TdmrNs)
+
+
 
 # Installation
 
@@ -176,10 +181,6 @@ cd backend
 ![techStack.png](images/techStack.png)
 
 
-
-# 시연 및 UCC 영상
-
-##### [MoA UCC](https://youtu.be/FYA64TdmrNs)
 
 # 팀 구성원 소개
 
