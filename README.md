@@ -180,6 +180,35 @@ cd backend
 
 ![techStack.png](images/techStack.png)
 
+### Front-end
+
+- Vue.js : 사용자 인터페이스를 만들기 위한 Progressive Framework
+- Vuetify : Vue에서 사용할 수 있는 용이한 UI toolkit
+- CSS : HTML 요소들이 각종 미디어에서 어떻게 보이는가를 정의하는데 사용되는 스타일시트 언어
+- HTML : 웹 페이즈를 위한 마크업 언어
+
+### Back-end
+
+- Java : 썬 마이크로시스템즈에서 개발한 객체 지향적 프로그래밍 언어, 플랫폼 독립적
+- Spring : 자바 플랫폼을 위한 오픈 소스 Application Framework
+- Spring boot : 최소한의 설정으로 스프링 플랫폼과 서드파티 라이브러리들을 사용할 수 있도록 해주는 플랫폼
+- Jenkins : 소프트웨어 개발 시 지속적으로 통합 서비스를 제공하는 툴, CI(Continuous Integration) 툴
+
+### Data
+
+- MySQL : 오픈 소스의 관계형 데이터베이스 관리 시스템(RDBMS)
+- MyBatis : 개발자가 지정한 SQL, 저장프로시저 그리고 몇 가지 고급 매핑을 지원하는 퍼시스턴스 프레임워크, JDBC로 처리하는 상당부분의 코드와 파라미터 설정 및 결과 매핑을 대신해 줌
+
+### Infra
+
+- Nginx : 웹 서버 소프트웨어로, 가벼움과 높은 성능을 목표로한다. 웹 서버, 리버스 프록시 및 메일 프록시 기능을 제공
+- Docker : Application을 신속하게 구축, 테스트 및 배포할 수 있는 소프트웨어 플랫폼
+- AWS(Amazon Web Services) : 다른 웹 사이트나 클라이언트측 응용 프로그램에 대해 온라인 서비스를 제공
+
+### Services
+
+- Gitlab : Git의 원격 저장소 기능과 이슈 트래커 기능 등을 제공하는 소프트웨어
+
 
 
 # 팀 구성원 소개
