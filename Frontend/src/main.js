@@ -8,7 +8,7 @@ import Tawk from 'vue-tawk';
 import './assets/css/tiptab/main.scss';
 
 //npm install vue-tawk --save
-const TAWK_SRC_URL = 'https://embed.tawk.to/60220d47c31c9117cb772fdc/1eu2g7ogf'; //TAWK 주소
+const TAWK_SRC_URL = 'tawk address'; //TAWK 주소
 
 Vue.config.productionTip = false;
 
@@ -17,7 +17,7 @@ Vue.use(Tawk, {
     tawkSrc: TAWK_SRC_URL,
 });
 
-window.Kakao.init('eeec1cc8fd9676c2af3143c98b716672');
+window.Kakao.init('Kakao Api key value');
 new Vue({
     router,
     store,
